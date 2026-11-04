@@ -1,1 +1,10 @@
-{"text": "Chili", "qty": "1 stk. (frisk eller flager)", "section": "Frugt og grønt", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1793772579387}
+{
+ "text": "Chili",
+ "qty": "1 stk. (frisk eller flager)",
+ "section": "Frugt og grønt",
+ "done": true,
+ "doneAt": 1793806313569,
+ "archived": false,
+ "by": "Mad",
+ "at": 1793772579387
+}
