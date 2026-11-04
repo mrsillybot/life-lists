@@ -1,1 +1,10 @@
-{"text": "Ketchup", "qty": "1 fl. (hvis ikke hjemme)", "section": "Tørvarer", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1793806215284}
+{
+ "text": "Ketchup",
+ "qty": "1 fl. (hvis ikke hjemme)",
+ "section": "Tørvarer",
+ "done": true,
+ "doneAt": 1793806342542,
+ "archived": false,
+ "by": "Mad",
+ "at": 1793806215284
+}
