@@ -1,1 +1,10 @@
-{"text": "Sojasauce", "qty": "1 fl.", "section": "Tørvarer", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1793806215274}
+{
+ "text": "Sojasauce",
+ "qty": "1 fl.",
+ "section": "Tørvarer",
+ "done": true,
+ "doneAt": 1793806340672,
+ "archived": false,
+ "by": "Mad",
+ "at": 1793806215274
+}
