@@ -1,1 +1,10 @@
-{"text": "Pasta", "qty": "400 g", "section": "Tørvarer", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1793772665141}
+{
+ "text": "Pasta",
+ "qty": "400 g",
+ "section": "Tørvarer",
+ "done": true,
+ "doneAt": 1793806817313,
+ "archived": false,
+ "by": "Mad",
+ "at": 1793772665141
+}
