@@ -1,1 +1,10 @@
-{"text": "Dijonsennep", "qty": "1 glas", "section": "Tørvarer", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1793772579419}
+{
+ "text": "Dijonsennep",
+ "qty": "1 glas",
+ "section": "Tørvarer",
+ "done": true,
+ "doneAt": 1793806330079,
+ "archived": false,
+ "by": "Mad",
+ "at": 1793772579419
+}
