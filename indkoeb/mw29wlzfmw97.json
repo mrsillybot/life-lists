@@ -2,8 +2,8 @@
  "text": "Risnudler (flade)",
  "qty": "250 g",
  "section": "Tørvarer",
- "done": false,
- "doneAt": null,
+ "done": true,
+ "doneAt": 1793806815946,
  "archived": false,
  "by": "Mad",
  "at": 1793806215243
