@@ -1,1 +1,10 @@
-{"text": "Hvidløg", "qty": "2 fed", "section": "Frugt og grønt", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1793772579375}
+{
+ "text": "Hvidløg",
+ "qty": "2 fed",
+ "section": "Frugt og grønt",
+ "done": true,
+ "doneAt": 1793806552625,
+ "archived": false,
+ "by": "Mad",
+ "at": 1793772579375
+}
