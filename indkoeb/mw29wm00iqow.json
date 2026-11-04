@@ -1,1 +1,10 @@
-{"text": "Fiskesauce", "qty": "1 fl.", "section": "Tørvarer", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1793806215264}
+{
+ "text": "Fiskesauce",
+ "qty": "1 fl.",
+ "section": "Tørvarer",
+ "done": true,
+ "doneAt": 1793806341517,
+ "archived": false,
+ "by": "Mad",
+ "at": 1793806215264
+}
