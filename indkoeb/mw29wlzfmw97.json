@@ -1,1 +1,10 @@
-{"text": "Risnudler (flade)", "qty": "250 g", "section": "Tørvarer", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1793806215243}
+{
+ "text": "Risnudler (flade)",
+ "qty": "250 g",
+ "section": "Tørvarer",
+ "done": true,
+ "doneAt": 1793806737827,
+ "archived": false,
+ "by": "Mad",
+ "at": 1793806215243
+}
