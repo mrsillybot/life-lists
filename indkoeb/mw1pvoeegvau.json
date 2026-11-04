@@ -1,1 +1,10 @@
-{"text": "Bouillonterning, kylling", "qty": "1 stk.", "section": "Tørvarer", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1793772579398}
+{
+ "text": "Bouillonterning, kylling",
+ "qty": "1 stk.",
+ "section": "Tørvarer",
+ "done": true,
+ "doneAt": 1793806680930,
+ "archived": false,
+ "by": "Mad",
+ "at": 1793772579398
+}
