@@ -203,6 +203,20 @@
     "🪥 Børste tænder",
     "🎒 Pakke taske"
    ]
+  },
+  "2026-11-18": {
+   "Laura": [
+    "🫧 Tømme opper",
+    "🍱 Madkassen i opvaskemaskinen"
+   ],
+   "Max": [
+    "🍽️ Dække bord",
+    "🍱 Madkassen i opvaskemaskinen"
+   ],
+   "Stella": [
+    "🧽 Rydde op efter mad",
+    "🍱 Madkassen i opvaskemaskinen"
+   ]
   }
  }
 }
