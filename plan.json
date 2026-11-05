@@ -15,208 +15,292 @@
    ]
   },
   "2026-11-05": {
-   "Laura": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske",
-    "🫧 Tømme opper",
-    "🍱 Madkassen i opvaskemaskinen"
-   ],
-   "Max": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske",
-    "🍽️ Dække bord",
-    "🍱 Madkassen i opvaskemaskinen"
-   ],
-   "Stella": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske",
-    "🧽 Rydde op efter mad",
-    "🍱 Madkassen i opvaskemaskinen"
-   ]
+   "Laura": {
+    "afternoon": [
+     "🫧 Tømme opper",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Max": {
+    "afternoon": [
+     "🍽️ Dække bord",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Stella": {
+    "afternoon": [
+     "🧽 Rydde op efter mad",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   }
   },
   "2026-11-06": {
-   "Laura": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske"
-   ],
-   "Max": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske"
-   ],
-   "Stella": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske"
-   ]
+   "Laura": {
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Max": {
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Stella": {
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   }
   },
   "2026-11-11": {
-   "Laura": [
-    "🫧 Tømme opper",
-    "🍱 Madkassen i opvaskemaskinen"
-   ],
-   "Max": [
-    "🍽️ Dække bord",
-    "🍱 Madkassen i opvaskemaskinen"
-   ],
-   "Stella": [
-    "🧽 Rydde op efter mad",
-    "🍱 Madkassen i opvaskemaskinen"
-   ]
+   "Laura": {
+    "afternoon": [
+     "🫧 Tømme opper",
+     "🍱 Madkassen i opvaskemaskinen"
+    ]
+   },
+   "Max": {
+    "afternoon": [
+     "🍽️ Dække bord",
+     "🍱 Madkassen i opvaskemaskinen"
+    ]
+   },
+   "Stella": {
+    "afternoon": [
+     "🧽 Rydde op efter mad",
+     "🍱 Madkassen i opvaskemaskinen"
+    ]
+   }
   },
   "2026-11-12": {
-   "Laura": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske",
-    "🫧 Tømme opper",
-    "🍱 Madkassen i opvaskemaskinen"
-   ],
-   "Max": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske",
-    "🍽️ Dække bord",
-    "🍱 Madkassen i opvaskemaskinen"
-   ],
-   "Stella": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske",
-    "🧽 Rydde op efter mad",
-    "🍱 Madkassen i opvaskemaskinen"
-   ]
+   "Laura": {
+    "afternoon": [
+     "🫧 Tømme opper",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Max": {
+    "afternoon": [
+     "🍽️ Dække bord",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Stella": {
+    "afternoon": [
+     "🧽 Rydde op efter mad",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   }
   },
   "2026-11-13": {
-   "Laura": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske",
-    "🫧 Tømme opper",
-    "🍱 Madkassen i opvaskemaskinen"
-   ],
-   "Max": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske",
-    "🍽️ Dække bord",
-    "🍱 Madkassen i opvaskemaskinen"
-   ],
-   "Stella": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske",
-    "🧽 Rydde op efter mad",
-    "🍱 Madkassen i opvaskemaskinen"
-   ]
+   "Laura": {
+    "afternoon": [
+     "🫧 Tømme opper",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Max": {
+    "afternoon": [
+     "🍽️ Dække bord",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Stella": {
+    "afternoon": [
+     "🧽 Rydde op efter mad",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   }
   },
   "2026-11-14": {
-   "Laura": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🫧 Tømme opper"
-   ],
-   "Max": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "🪥 Børste tænder",
-    "🍽️ Dække bord"
-   ],
-   "Stella": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🧽 Rydde op efter mad"
-   ]
+   "Laura": {
+    "afternoon": [
+     "🫧 Tømme opper"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder"
+    ]
+   },
+   "Max": {
+    "afternoon": [
+     "🍽️ Dække bord"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "🪥 Børste tænder"
+    ]
+   },
+   "Stella": {
+    "afternoon": [
+     "🧽 Rydde op efter mad"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder"
+    ]
+   }
   },
   "2026-11-15": {
-   "Laura": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🫧 Tømme opper",
-    "🧸 Rydde op på værelset",
-    "🧹 Gøre rent på værelset"
-   ],
-   "Max": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "🪥 Børste tænder",
-    "🍽️ Dække bord"
-   ],
-   "Stella": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🧽 Rydde op efter mad",
-    "🧸 Rydde op på værelset",
-    "🧹 Gøre rent på værelset"
-   ]
+   "Laura": {
+    "afternoon": [
+     "🫧 Tømme opper",
+     "🧸 Rydde op på værelset",
+     "🧹 Gøre rent på værelset"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder"
+    ]
+   },
+   "Max": {
+    "afternoon": [
+     "🍽️ Dække bord"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "🪥 Børste tænder"
+    ]
+   },
+   "Stella": {
+    "afternoon": [
+     "🧽 Rydde op efter mad",
+     "🧸 Rydde op på værelset",
+     "🧹 Gøre rent på værelset"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder"
+    ]
+   }
   },
   "2026-11-16": {
-   "Laura": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske"
-   ],
-   "Max": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske"
-   ],
-   "Stella": [
-    "🥣 Spise",
-    "👕 Tage tøj på",
-    "💇‍♀️ Hår/makeup",
-    "🪥 Børste tænder",
-    "🎒 Pakke taske"
-   ]
+   "Laura": {
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Max": {
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Stella": {
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   }
   },
   "2026-11-18": {
-   "Laura": [
-    "🫧 Tømme opper",
-    "🍱 Madkassen i opvaskemaskinen"
-   ],
-   "Max": [
-    "🍽️ Dække bord",
-    "🍱 Madkassen i opvaskemaskinen"
-   ],
-   "Stella": [
-    "🧽 Rydde op efter mad",
-    "🍱 Madkassen i opvaskemaskinen"
-   ]
+   "Laura": {
+    "afternoon": [
+     "🫧 Tømme opper",
+     "🍱 Madkassen i opvaskemaskinen"
+    ]
+   },
+   "Max": {
+    "afternoon": [
+     "🍽️ Dække bord",
+     "🍱 Madkassen i opvaskemaskinen"
+    ]
+   },
+   "Stella": {
+    "afternoon": [
+     "🧽 Rydde op efter mad",
+     "🍱 Madkassen i opvaskemaskinen"
+    ]
+   }
   }
  }
 }
