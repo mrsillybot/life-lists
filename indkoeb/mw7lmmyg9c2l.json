@@ -1,1 +1,10 @@
-{"text": "Hakkede tomater", "qty": "2 pk.", "section": "Tørvarer", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1794128236216}
+{
+ "text": "Hakkede tomater",
+ "qty": "2 pk.",
+ "section": "Tørvarer",
+ "done": true,
+ "doneAt": 1794299690208,
+ "archived": false,
+ "by": "Mad",
+ "at": 1794128236216
+}
