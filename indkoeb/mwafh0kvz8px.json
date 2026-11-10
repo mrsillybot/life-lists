@@ -1,1 +1,10 @@
-{"text": "Revet ost", "qty": "200 g", "section": "Mejeri", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1794299294767}
+{
+ "text": "Revet ost",
+ "qty": "200 g",
+ "section": "Mejeri",
+ "done": true,
+ "doneAt": 1794299609642,
+ "archived": false,
+ "by": "Mad",
+ "at": 1794299294767
+}
