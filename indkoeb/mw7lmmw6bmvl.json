@@ -1,1 +1,10 @@
-{"text": "Lime", "qty": "2 stk.", "section": "Frugt og grønt", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1794128236134}
+{
+ "text": "Lime",
+ "qty": "2 stk.",
+ "section": "Frugt og grønt",
+ "done": true,
+ "doneAt": 1794299470810,
+ "archived": false,
+ "by": "Mad",
+ "at": 1794128236134
+}
