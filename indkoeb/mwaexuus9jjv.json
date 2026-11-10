@@ -1,1 +1,10 @@
-{"text": "Spidskål", "qty": "1", "section": "Frugt og grønt", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1794298400884}
+{
+ "text": "Spidskål",
+ "qty": "1",
+ "section": "Frugt og grønt",
+ "done": true,
+ "doneAt": 1794299364525,
+ "archived": false,
+ "by": "Mad",
+ "at": 1794298400884
+}
