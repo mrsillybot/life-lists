@@ -1,1 +1,10 @@
-{"text": "Majs", "qty": "1 dåse", "section": "Tørvarer", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1794299294767}
+{
+ "text": "Majs",
+ "qty": "1 dåse",
+ "section": "Tørvarer",
+ "done": true,
+ "doneAt": 1794299749367,
+ "archived": false,
+ "by": "Mad",
+ "at": 1794299294767
+}
