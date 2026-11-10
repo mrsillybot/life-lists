@@ -1,1 +1,10 @@
-{"text": "Agurk", "qty": "1", "section": "Frugt og grønt", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1794299294767}
+{
+ "text": "Agurk",
+ "qty": "1",
+ "section": "Frugt og grønt",
+ "done": true,
+ "doneAt": 1794299365018,
+ "archived": false,
+ "by": "Mad",
+ "at": 1794299294767
+}
