@@ -1,1 +1,10 @@
-{"text": "Løg", "qty": "3 stk. (hvis ikke hjemme)", "section": "Frugt og grønt", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1794128236144}
+{
+ "text": "Løg",
+ "qty": "3 stk. (hvis ikke hjemme)",
+ "section": "Frugt og grønt",
+ "done": true,
+ "doneAt": 1794299360799,
+ "archived": false,
+ "by": "Mad",
+ "at": 1794128236144
+}
