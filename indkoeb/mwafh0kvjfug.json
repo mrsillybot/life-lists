@@ -1,1 +1,10 @@
-{"text": "Tortillas", "qty": "8-10", "section": "Tørvarer", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1794299294767}
+{
+ "text": "Tortillas",
+ "qty": "8-10",
+ "section": "Tørvarer",
+ "done": true,
+ "doneAt": 1794299748840,
+ "archived": false,
+ "by": "Mad",
+ "at": 1794299294767
+}
