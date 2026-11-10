@@ -1,1 +1,10 @@
-{"text": "Tacokrydderi", "qty": "1 pose", "section": "Tørvarer", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1794299294767}
+{
+ "text": "Tacokrydderi",
+ "qty": "1 pose",
+ "section": "Tørvarer",
+ "done": true,
+ "doneAt": 1794299747482,
+ "archived": false,
+ "by": "Mad",
+ "at": 1794299294767
+}
