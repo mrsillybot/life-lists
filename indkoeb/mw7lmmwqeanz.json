@@ -1,1 +1,10 @@
-{"text": "Madlavningsfløde 7 %", "qty": "1 pk.", "section": "Mejeri", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1794128236154}
+{
+ "text": "Madlavningsfløde 7 %",
+ "qty": "1 pk.",
+ "section": "Mejeri",
+ "done": true,
+ "doneAt": 1794299647763,
+ "archived": false,
+ "by": "Mad",
+ "at": 1794128236154
+}
