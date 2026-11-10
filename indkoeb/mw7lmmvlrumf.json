@@ -1,1 +1,10 @@
-{"text": "Rød peberfrugt", "qty": "1 stk.", "section": "Frugt og grønt", "done": false, "doneAt": null, "archived": false, "by": "Mad", "at": 1794128236113}
+{
+ "text": "Rød peberfrugt",
+ "qty": "1 stk.",
+ "section": "Frugt og grønt",
+ "done": true,
+ "doneAt": 1794299337543,
+ "archived": false,
+ "by": "Mad",
+ "at": 1794128236113
+}
