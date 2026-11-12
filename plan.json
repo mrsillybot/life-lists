@@ -369,6 +369,26 @@
      "🎒 Pakke taske"
     ]
    }
+  },
+  "2026-11-25": {
+   "Laura": {
+    "afternoon": [
+     "🫧 Tømme opper",
+     "🍱 Madkassen i opvaskemaskinen"
+    ]
+   },
+   "Max": {
+    "afternoon": [
+     "🍽️ Dække bord",
+     "🍱 Madkassen i opvaskemaskinen"
+    ]
+   },
+   "Stella": {
+    "afternoon": [
+     "🧽 Rydde op efter mad",
+     "🍱 Madkassen i opvaskemaskinen"
+    ]
+   }
   }
  }
 }
