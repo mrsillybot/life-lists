@@ -389,6 +389,86 @@
      "🍱 Madkassen i opvaskemaskinen"
     ]
    }
+  },
+  "2026-11-26": {
+   "Laura": {
+    "afternoon": [
+     "🫧 Tømme opper",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Max": {
+    "afternoon": [
+     "🍽️ Dække bord",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Stella": {
+    "afternoon": [
+     "🧽 Rydde op efter mad",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   }
+  },
+  "2026-11-27": {
+   "Laura": {
+    "afternoon": [
+     "🫧 Tømme opper",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Max": {
+    "afternoon": [
+     "🍽️ Dække bord",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   },
+   "Stella": {
+    "afternoon": [
+     "🧽 Rydde op efter mad",
+     "🍱 Madkassen i opvaskemaskinen"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder",
+     "🎒 Pakke taske"
+    ]
+   }
   }
  }
 }
