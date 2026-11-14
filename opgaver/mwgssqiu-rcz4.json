@@ -1,8 +1,8 @@
 {
  "text": "Stellasa",
- "done": false,
- "doneAt": null,
- "archived": false,
+ "done": true,
+ "doneAt": 1794684511669,
+ "archived": true,
  "by": "Alex",
  "at": 1794684473671
 }
