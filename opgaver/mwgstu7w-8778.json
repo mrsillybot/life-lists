@@ -1,8 +1,8 @@
 {
  "text": "Stellàa",
  "who": "Stella",
- "done": false,
- "doneAt": null,
+ "done": true,
+ "doneAt": 1794684536537,
  "archived": false,
  "by": "Alex",
  "at": 1794684525116
