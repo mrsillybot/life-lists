@@ -469,6 +469,40 @@
      "🎒 Pakke taske"
     ]
    }
+  },
+  "2026-11-28": {
+   "Laura": {
+    "afternoon": [
+     "🫧 Tømme opper"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder"
+    ]
+   },
+   "Max": {
+    "afternoon": [
+     "🍽️ Dække bord"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "🪥 Børste tænder"
+    ]
+   },
+   "Stella": {
+    "afternoon": [
+     "🧽 Rydde op efter mad"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder"
+    ]
+   }
   }
  }
 }
