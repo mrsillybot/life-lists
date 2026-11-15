@@ -503,6 +503,44 @@
      "🪥 Børste tænder"
     ]
    }
+  },
+  "2026-11-29": {
+   "Laura": {
+    "afternoon": [
+     "🫧 Tømme opper",
+     "🧸 Rydde op på værelset",
+     "🧹 Gøre rent på værelset"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder"
+    ]
+   },
+   "Max": {
+    "afternoon": [
+     "🍽️ Dække bord"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "🪥 Børste tænder"
+    ]
+   },
+   "Stella": {
+    "afternoon": [
+     "🧽 Rydde op efter mad",
+     "🧸 Rydde op på værelset",
+     "🧹 Gøre rent på værelset"
+    ],
+    "morning": [
+     "🥣 Spise",
+     "👕 Tage tøj på",
+     "💇‍♀️ Hår/makeup",
+     "🪥 Børste tænder"
+    ]
+   }
   }
  }
 }
