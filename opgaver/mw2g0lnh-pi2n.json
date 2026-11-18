@@ -1,9 +1,9 @@
 {
  "text": "Lav mad d. 12.11",
  "who": "Stella",
- "done": false,
- "doneAt": null,
- "archived": false,
+ "done": true,
+ "doneAt": 1794979938980,
+ "archived": true,
  "by": "Alex",
  "at": 1793816479133
 }
